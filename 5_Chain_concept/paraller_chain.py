@@ -43,3 +43,8 @@ Particularly, reinforcement learning (RL) is essential in assisting agentic AI i
 result=chain.invoke({'text':text})
 print(result)
 
+# in order to see the graph
+
+chain.get_graph().print_ascii()
+
+
