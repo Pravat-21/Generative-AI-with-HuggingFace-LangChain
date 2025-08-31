@@ -37,3 +37,10 @@ pypdf
 bs4
 
 sentence-transformers
+
+chromadb
+tiktoken 
+ipywidgets
+
+faiss-cpu    
+wikipedia
