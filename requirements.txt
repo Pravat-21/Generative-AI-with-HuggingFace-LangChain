@@ -44,3 +44,7 @@ ipywidgets
 
 faiss-cpu    
 wikipedia
+
+youtube-transcript-api  
+pytube
+                 
