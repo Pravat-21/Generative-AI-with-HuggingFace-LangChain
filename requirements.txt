@@ -47,4 +47,7 @@ wikipedia
 
 youtube-transcript-api  
 pytube
+
+duckduckgo-search
+ddgs
                  
